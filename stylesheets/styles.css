@@ -237,7 +237,7 @@ dfn {
  * Addresses styling not present in IE6/7/8/9
  */
 mark {
-  background: #ff0;
+  background: #fffbff;
   color: #000;
 }
 
@@ -580,12 +580,12 @@ h3 {
 }
 
 a {
-  color: #ffcc00;
+  color: #b6b6b6;
   font-weight: 400;
   text-decoration: none;
 }
 a:hover {
-  color: #ffeb9b;
+  color: #00971f;
 }
 
 a small {
@@ -616,7 +616,7 @@ section img {
 }
 
 blockquote {
-  border-left: 3px solid #ffcc00;
+  border-left: 3px solid #b6b6b6;
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
